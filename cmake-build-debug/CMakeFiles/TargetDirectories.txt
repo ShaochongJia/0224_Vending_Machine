@@ -1,0 +1,3 @@
+/Users/shaochongjia/Desktop/Spring/CS3A/0224_Vending Machine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shaochongjia/Desktop/Spring/CS3A/0224_Vending Machine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shaochongjia/Desktop/Spring/CS3A/0224_Vending Machine/cmake-build-debug/CMakeFiles/0224_Vending_Machine.dir
